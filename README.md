@@ -12,3 +12,5 @@ Each image have been rated for the weather condition on a scale of 0 to 4:
 2 - rainy
 3 - Shine
 4 - Sunrise.
+
+https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset
