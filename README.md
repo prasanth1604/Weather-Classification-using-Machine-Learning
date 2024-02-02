@@ -14,3 +14,5 @@ Each image have been rated for the weather condition on a scale of 0 to 4:
 4 - Sunrise.
 
 https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset
+
+refer jupyter notebook file for code
